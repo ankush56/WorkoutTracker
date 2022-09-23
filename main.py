@@ -3,7 +3,7 @@
 # Workout app - This app use Nutrition AI API to detect exercise based on human readable input
 # Next we use Google sheets and sheety API to record workout data in sheets
 
-########################
+#########################
 import requests
 import os
 from dotenv import load_dotenv
